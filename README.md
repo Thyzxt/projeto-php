@@ -2,6 +2,10 @@
 
 Um aplicativo web em PHP para gerenciar sua coleção de livros.
 
+<br>
+
+Alunos: Thyago Almeida Paulo e Rafael Fernandes
+
 ## Visão Geral
 
 Este sistema permite que usuários cadastrados:
@@ -35,5 +39,3 @@ Após a instalação, cadastre um novo usuário pelo próprio sistema.
 4.  **Executar**:
     * Copie todos os arquivos do projeto para `C:\xampp\htdocs\sistema_livros\` (ou equivalente).
     * Abra `http://localhost/sistema_livros/index.php` no seu navegador.
-
-Feito!
